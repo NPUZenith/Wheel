@@ -5,6 +5,7 @@ public class Wheel {
     double radius;
 
     /*
+     Apparently this is what actually initialises the object. ie allows for the use f that object in other programs.
      Allows the new wheel to pass in a variable named "radius".
      The second line is object oriented stuff that tells all of the other functions outside of main to use "radius" when running the commands.
     */
